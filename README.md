@@ -1,2 +1,5 @@
 # UNC-Faculty-Diversity---Tableau
-Project Looking at UNC Faculty Diversity
+This was a project for my INLS 541 Information Visualization Class. I've been frustrated for a while by the fact that it's difficult to get a clear idea of what faculty diversity is like at UNC Chapel Hill. When the data is available at all, it's generally in a format that is less than accessible as it is merely a tabular represntation.
+I started by pulling the data from the PDFs they are in and transforming it into CSV files. After that, I pulled it into Tableau and make a series of visualizations to put into a pair of dashboards. These are meant to make it easier to understand the trends in the data. Because the data doesn't really have a relationship between the two files, I had to create two seperate tableau workbooks and dashboards. 
+
+Here's the link to the [gender demographics dashboard](https://public.tableau.com/app/profile/kyle.ashburn/viz/MidtermDashboard-FacultyGenderDemographics/GenderDashboard?publish=yes) and here's the link to the [racial demographics dashaboard](https://public.tableau.com/app/profile/kyle.ashburn/viz/MidtermDashboard-FacultyRacialDemographics/RaceDashboard).
